@@ -3,9 +3,8 @@
 
 ### 11조 이주현
 
-![다운로드](https://user-images.githubusercontent.com/110277186/185329013-d63d0c1d-5b8e-441a-b4d8-00ff969e09f6.png)
 
-
+![제목 없음](https://user-images.githubusercontent.com/110277186/185331453-22e1e2ed-c2dc-424a-bbf5-e21a281297be.png)
 
 |Method|URL|Request|Respose|
 |:---:|:---:|:---:|:---:|
